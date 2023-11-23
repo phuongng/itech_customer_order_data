@@ -29,7 +29,7 @@
       "order_date": "2023-03-20",
       "payment_status": "Completed",
       "delivery_type": "Express",
-      "delivery_status": "Out for Delivery",
+      "delivery_status": "Delivered",
       "order_total": 200.25,
       "tracking_id": "TRK234567890"
     },
@@ -73,7 +73,7 @@
       "order_date": "2023-07-15",
       "payment_status": "Completed",
       "delivery_type": "Express",
-      "delivery_status": "Out for Delivery",
+      "delivery_status": "Shipped",
       "order_total": 250.75,
       "tracking_id": "TRK678901234"
     },
@@ -117,7 +117,7 @@
       "order_date": "2023-11-15",
       "payment_status": "Completed",
       "delivery_type": "Express",
-      "delivery_status": "Out for Delivery",
+      "delivery_status": "Shipped",
       "order_total": 120.50,
       "tracking_id": "TRK123450987"
     },
@@ -161,7 +161,7 @@
       "order_date": "2023-03-25",
       "payment_status": "Completed",
       "delivery_type": "Express",
-      "delivery_status": "Out for Delivery",
+      "delivery_status": "Delivered",
       "order_total": 200.50,
       "tracking_id": "TRK456789012"
     },
